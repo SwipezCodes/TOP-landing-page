@@ -175,3 +175,13 @@ cite{
     color: white;
     font-weight: bold;
 }
+
+/* Footer styling */
+
+footer {
+    background: #1F2937;
+    text-align: center;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
